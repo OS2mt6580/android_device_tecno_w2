@@ -57,10 +57,10 @@ This branch is device for building of LineageOS 14.1 (or Android Nougat 7.1.x AO
 
 
 ```
-https://github.com/OS2mt6580/android_device_tecno_w2.git -b master  device/tecno/w2
+git clone https://github.com/OS2mt6580/android_device_tecno_w2.git -b master  device/tecno/w2
 ```
 ```
-https://github.com/OS2mt6580/android_vendor_tecno_w2.git -b master vendor/tecno/w2
+git clone https://github.com/OS2mt6580/android_vendor_tecno_w2.git -b master vendor/tecno/w2
 ```
 
 # TO START BUILD :::
